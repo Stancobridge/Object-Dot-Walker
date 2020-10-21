@@ -1,6 +1,7 @@
 {
   "name": "object-dot-walk",
   "version": "0.0.1",
+  "homepage": "https://github.com/Stancobridge/Object-Dot-Walker",
   "description": "This is a simplified object walker for Browser and NodeJS",
   "main": "index.js",
   "scripts": {
