@@ -45,3 +45,6 @@ class ObjectWalker {
     }
   }
 }
+
+
+export default ObjectWalker;
